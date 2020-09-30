@@ -1,3 +1,4 @@
+a
  ### application.bat - 2020 - BREAULT ###
 version = "2"
 build_hour = "11H00"
